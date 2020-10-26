@@ -1,4 +1,8 @@
 aaa
 ccc
 bbb
+<<<<<<< HEAD
 master
+=======
+testing
+>>>>>>> testing
